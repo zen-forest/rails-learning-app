@@ -1,24 +1,7 @@
-# README
+# RoR Tutorial app
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is my code as I follow along the [Learn Enough Tutorial Series](https://www.learnenough.com/ruby-on-rails-7th-edition). I highly recommend it, especially after scouring the internet for the best resources to learn. 
 
-Things you may want to cover:
 
-* Ruby version
 
-* System dependencies
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
